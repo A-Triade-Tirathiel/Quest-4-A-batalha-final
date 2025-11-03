@@ -33,16 +33,18 @@ Nosso projeto utiliza desse de um dos _datasets_ do TCGA para prever qual tipo d
 
 > O trabalho realizado não seria possível sem a ajuda do professor Dr. Daniel R. Cassar da disciplina Aprendizado de Máquina
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#" title="Prof. Daniel R. Cassar">
-        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
-          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#" title="Prof. Daniel R. Cassar">
+          <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
+            <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ⭐ Agradecimentos
 
@@ -50,28 +52,30 @@ Nosso projeto utiliza desse de um dos _datasets_ do TCGA para prever qual tipo d
 
 ## 🤝 Colaboradores
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/GiuliaS1608" title="Giulia S. Ferreira">
-        <img src="https://avatars.githubusercontent.com/u/208799234?v=4" width="100" height="100" style="object-fit: cover;" alt="Foto da Giulia do Github"/><br>
-        <b>Giulia S. Ferreira</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/LucasCandinho" title="Lucas Candinho">
-        <img src="https://avatars.githubusercontent.com/u/149116352?v=4" width="100" height="100" style="object-fit: cover;" alt="Foto do Lucas do Github"/><br>
-        <b>Lucas Candinho</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/mncunha" title="Matheus N. Cunha">
-        <img src="https://avatars.githubusercontent.com/u/209475678?v=4" width="100" height="100" style="object-fit: cover;" alt="Foto do Matheus do Github"/><br>
-        <b>Matheus N. Cunha</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <a href="https://github.com/GiuliaS1608" title="Giulia S. Ferreira">
+          <img src="https://avatars.githubusercontent.com/u/208799234?v=4" width="100" height="100" style="object-fit: cover;" alt="Foto da Giulia do Github"/><br>
+          <b>Giulia S. Ferreira</b>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/LucasCandinho" title="Lucas Candinho">
+          <img src="https://avatars.githubusercontent.com/u/149116352?v=4" width="100" height="100" style="object-fit: cover;" alt="Foto do Lucas do Github"/><br>
+          <b>Lucas Candinho</b>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://github.com/mncunha" title="Matheus N. Cunha">
+          <img src="https://avatars.githubusercontent.com/u/209475678?v=4" width="100" height="100" style="object-fit: cover;" alt="Foto do Matheus do Github"/><br>
+          <b>Matheus N. Cunha</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!---
 ### 💪 Como cada colaborador contribuiu?
