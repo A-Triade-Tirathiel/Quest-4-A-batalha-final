@@ -17,7 +17,7 @@
 #### O que é o TCGA
 O **TCGA** (_The Cancer Genome Atlas_) foi um dos maiores e mais importantes projetos de pesquisa biomédica realizados sobre o câncer. O objetivo desse projeto era mapear as alterações genômicas, moleculares e histológicas presentes em diferentes tipos de tumores humanos. Nele existem diversas informações que podem ser usadas para uma multiplicidade de aplicações.
 
-#### O que o é nosso projeto faz?
+#### O que o nosso projeto faz?
 
 Nosso projeto utiliza desse de um dos _datasets_ do TCGA para prever qual tipo de cancer está presente em um tecido. Isso se dá por um extenso tratamento de dados e utilização de diversas ferramentas de aprendizado de máquina que visa treinar e testar um modelo eficiente.
 
