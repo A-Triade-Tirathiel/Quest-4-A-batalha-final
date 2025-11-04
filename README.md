@@ -21,13 +21,14 @@ O **TCGA** (_The Cancer Genome Atlas_) foi um dos maiores e mais importantes pro
 
 Nosso projeto utiliza desse de um dos _datasets_ do TCGA para prever qual tipo de cancer está presente em um tecido. Isso se dá por um extenso tratamento de dados e utilização de diversas ferramentas de aprendizado de máquina que visa treinar e testar um modelo eficiente.
 
-## Como rodar em seu PC
-### 👨‍💻 Rodando Localmente
-📋 Pré-requisitos:
+## 👨‍💻 Como rodar em seu PC
 
-1. Instale o Python em seu computador. Recomendamos a versão 3.10.16
-2. Instale um ambiente Jupyter. Recomendamos o JupyterLab.
-3. Ao rodar o notebook, todas as bibliotecas serão instaladas e atualizadas.
+1. Instale o Python em seu computador. Recomendamos a versão 3.12.7;
+2. Crie um ambiente virtual com `python -m venv ML_project`;
+3. Ative-o com `.\ML_project\Scripts\activate `;
+4. Instale as bibliotecas com `pip -r requisitos.txt`;
+5. Adicione o kernel com as bibliotecas instaladas em seu ambiente Jupyter;
+6. O projeto está pronto para ser utilizado.
 
 ## 👨‍🏫 Professores responsáveis
 
