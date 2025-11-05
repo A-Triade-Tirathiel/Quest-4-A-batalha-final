@@ -1,5 +1,5 @@
 # 🧬 O que foi feito?
-> O projeto consiste em um notebook jupyter onde um modelo é treinado com os dados do TCGA (The Cancer Microbiome Atlas) para identificar se uma que cancer está presente em determinada amostra.
+> O projeto consiste em um notebook jupyter onde um modelo é treinado com os dados do TCGA (The Cancer Microbiome Atlas) para identificar qual tipo de câncer pode estar em uma amostra de tecido.
 
 <!------------------------------------>
 
